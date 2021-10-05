@@ -9,8 +9,8 @@ Welche Technologie bietet die sicherste Verbindung punkto Ausfallsicherheit?
 
 Welche Verbindung eignet sich auch für Backup-Leitungen?
 
-Unterschiede
-xDSL
+##Unterschiede
+###xDSL
 XDSL (Digital Subscriber Line)ist die Sammelbezeichung für die DSL Varianten ADSL, HDSL, SDSL, SHDSL, UDSL, VDSL. Es bezeichnet die Verbindung des Festnetzinternets via Telefonkabel (LAN-Kabel)
 
 Vorteile
@@ -21,7 +21,7 @@ Vorteile
 - Situationen
 DSL Internet ist die beste Wahl, wenn man nicht viel budet hat. Für eine Familie oder alleinstehende Personen ist es optimal, doch für die grosse Menge wäre es eher nicht zu empfehlen.
 
-Fibre
+###Fibre
 Fibre ist das englische Wort für die Glasfaser Kabel. Diese sind zwar viel schneller als normale LAN Kabel, jedoch sind sie um einiges zerbrechlicher, da sie aus Glas bestehen.
 
 Vorteile
@@ -35,7 +35,7 @@ Vorteile
 - Situationen
 - Internet über Glasfaser ist optimal für Firmen, welche schnelles Internet brauchen, dank der schnellen Geschwindigkeit und der Leistungsfähigkeit.
 
-Cable
+###Cable
 Die Internetverbindung via Kabel wird am meisten bei normalen Konsumenten benutzt
 
 Vorteile
@@ -49,7 +49,7 @@ Nachteile
 - Situationen
 Internet über das Kabel ist geeignet, für Firmen die ihren Fokus nicht auf schnelles Internet legen sich und eine Stabile Verbindung wünschen.
 
-Radiolink
+###Radiolink
 Radiolink ist eine Verbindungsart ohne Kabel, was es auf grosse Reichweite ideal macht, jedoch nicht so sicher ist wie per Kabel
 
 Vorteile
@@ -64,7 +64,7 @@ Vorteile
 - Situationen
 der Radiolink Anschluss ist gut für Firmen / Wohnungen geeignet, welche keine Lust auf ein Kabelsalat haben und keine Top Secret Aufgaben über diesen erledigen.
 
-Satellit
+###Satellit
 Internet über Satelit ist eine Verbindungsart, welche nicht oft verwendet wird, aber seine Vor- und Nachteile hat.
 
 Vorteile

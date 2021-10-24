@@ -39,6 +39,8 @@ Generell könnte man einen Root-Server in Betracht ziehen, da man dabei einen ei
 
 Im Fazit, wenn es das Budget des Kunden zulässt, würden wir eher zu einem Root Server tendieren, da man dort einfach mehr Optionen hat. Hat der Kunde jedoch ein eher Begrenztes Budget, würde sich das Shared Hosting im Preis/Leitungsvergleich mehr lohnen.
 
+---
+
 <h3>Komplexe Datenbankanwendung:</h3>
 Hier gehen wir davon aus das, die Firma mit rund 100 Mitarbeiter 24/7 auf die Server zugreifen müssen. Die komplexe PHP-Datenbankanwendung beansprucht viel Speicherplatz. Die Firma ist seit Längerem in der Hotel-Branche und verfügt über mehrere Standorte, dazu sind sie bereit mehr Geld für (Ausfall)Sicherheit auszugeben.
 
@@ -53,6 +55,7 @@ Im Fazit würden wir für diesen Kunden ein dedizierter Server empfehlen. Da der
 Jedoch könnte man hier auch ein Inhouse Server In Betracht ziehen, wenn man ein gutes Sicherheitskonzept ausarbeitet und man einen Techniker vor Ort mit einem guten Management System arrangieren kann.
 
 <h3>Welche Vergleichskriterien finden Sie, welche sind wie wichtig?</h3>
+
 Der Traffic - eher wichtiger
 
 Die Arbeitszeiten - zu beachten

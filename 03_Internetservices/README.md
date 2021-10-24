@@ -56,12 +56,8 @@ Jedoch könnte man hier auch ein Inhouse Server In Betracht ziehen, wenn man ein
 
 <h3>Welche Vergleichskriterien finden Sie, welche sind wie wichtig?</h3>
 
-Der Traffic - eher wichtiger
-
-Die Arbeitszeiten - zu beachten
-
-Speicherplatz - nicht so wichtig
-
-Kosten - zu beachten
-
-Ausfall-Sicherheit: - sehr wichtig
+Der Traffic             - eher wichtiger
+Die Arbeitszeiten       - zu beachten
+Speicherplatz           - nicht so wichtig
+Kosten                  - zu beachten
+Ausfall-Sicherheit:     - sehr wichtig

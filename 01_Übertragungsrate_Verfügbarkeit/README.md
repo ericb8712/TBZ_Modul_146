@@ -19,5 +19,5 @@ Untersuchen Sie diese Frage unter der Annahme, dass ein Ausfall von 10 Stunden t
 
 Recherchieren Sie 5 Provider und bestimmen Sie einen geeigneten Provider für diese Firma. Ihre Entscheidung soll auf mindestens 5 Kriterien beruhen. <br> <br>
 
-<h2>Provider:</h2>
+
 
